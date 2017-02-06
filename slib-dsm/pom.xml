@@ -86,7 +86,7 @@
 
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
-
+<version>2.3</version>
                 <configuration>
                     <finalName>sml-dsm</finalName>
                     <appendAssemblyId>false</appendAssemblyId>

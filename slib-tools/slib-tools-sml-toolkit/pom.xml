@@ -105,7 +105,7 @@
 
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
-
+<version>2.3</version>
                 <configuration>
                     <finalName>sml-toolkit-${sml-toolkit.version}-${timestamp}</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
